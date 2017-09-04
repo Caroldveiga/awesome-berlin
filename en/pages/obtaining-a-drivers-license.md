@@ -6,7 +6,7 @@ many steps involved and the process can be affected by a number of factors:
 - In which country (and possibly, which state) was your license issued?
 - Is your previous drivers license still valid?
 
-## Drivers license tests
+# Drivers license tests
 
 There are two tests you will have to take (depending on your current drivers license status/country/state):
 - Theorie (i.e. written test)
@@ -86,7 +86,7 @@ You will almost certainly have to surrender your current drivers license so be p
 - [Hours and Info](https://service.berlin.de/standort/121646/)
 - [Google Maps](https://www.google.de/maps/place/LABO+Fahrerlaubnisbeh%C3%B6rde/@52.5047176,13.3888316,17.99z/data=!4m13!1m7!3m6!1s0x47a851d399b94635:0x130caea12dfcec60!2sPuttkamerstra%C3%9Fe+16,+10969+Berlin!3b1!8m2!3d52.50469!4d13.38942!3m4!1s0x0:0x490912bc66bfd973!8m2!3d52.5045857!4d13.3893514)
 
-## Resources
+## Resources and useful links
 
 ### Berlin.de (German language)
 - [Bürgeramt Locations](https://service.berlin.de/buergerberatung-aemter/)
@@ -106,5 +106,5 @@ You will almost certainly have to surrender your current drivers license so be p
 - [German Road Signs](https://en.wikipedia.org/wiki/Road_signs_in_Germany)
 - [European Drivers License Categories](https://en.wikipedia.org/wiki/European_driving_licence#Categories_valid_in_all_EEA_member_states)
 
-### U.S. citizens only
+### US. citizens only
 - [Driving in Germany](https://de.usembassy.gov/u-s-citizen-services/driving-in-germany/)
